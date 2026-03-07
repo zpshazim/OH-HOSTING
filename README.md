@@ -1,4 +1,4 @@
-# Codex-Hosting
+# OH-Hosting
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![PostCSS](https://img.shields.io/badge/postcss-%23DD3A0A.svg?style=for-the-badge&logo=postcss&logoColor=white)](https://postcss.org/)
