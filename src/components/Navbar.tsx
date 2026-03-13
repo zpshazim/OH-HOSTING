@@ -16,7 +16,7 @@ const moreItems = [
   { icon: HelpingHand, name: 'Support', href: '/support' },
   { icon: FileText, name: 'TOS', href: '/tos' },
   { icon: Shield, name: 'Privacy Policy', href: '/privacy' },
-  { icon: BarChart, name: 'Status Page', href: '/status' },
+  { icon: BarChart, name: 'SHaZIM RAIDER ON TOP', href: '/status' },
 ];
 
 const Navbar = () => {
